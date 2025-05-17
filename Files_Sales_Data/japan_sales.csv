@@ -1,0 +1,201 @@
+PId,Pname,PCategory,QtySold,Price,Amount,Country
+JA-1,Perfume2,Perfumes,4.0,1196.7,4786.8,Japan
+JA-2,Perfume1,Perfumes,3.0,1952.9,5858.7,Japan
+JA-3,Jeans1,Jeans,1.0,970.92,970.92,Japan
+JA-4,Jeans5,Jeans,3.0,1124.2,3372.6,Japan
+JA-5,Phone5,Smart Phone,2.0,1366.18,2732.36,Japan
+JA-6,Perfume5,Perfumes,9.0,1073.9,9665.1,Japan
+JA-7,,Water bottles,8.0,1557.93,12463.44,Japan
+JA-8,Phone4,Smart Phone,2.0,1382.28,2764.56,Japan
+JA-9,Tshirt1,Tshirts,3.0,895.05,2685.15,Japan
+JA-10,Bottle5,Water bottles,6.0,1256.77,7540.62,Japan
+JA-11,Shoes4,Shoes,7.0,933.48,6534.36,Japan
+JA-12,Bottle6,Water bottles,9.0,1646.87,14821.83,Japan
+JA-13,Phone2,Smart Phone,8.0,1277.23,10217.84,Japan
+JA-14,Shoes4,Shoes,5.0,1249.2,6246.0,Japan
+JA-15,Phone1,Smart Phone,2.0,926.66,1853.32,Japan
+JA-16,Bottle3,Water bottles,9.0,888.51,7996.59,Japan
+JA-17,Perfume3,Perfumes,7.0,1225.44,8578.08,Japan
+JA-18,Phone6,Smart Phone,5.0,1508.67,7543.35,Japan
+JA-19,Perfume5,Perfumes,8.0,1077.0,8616.0,Japan
+JA-20,Perfume3,Perfumes,5.0,1478.48,7392.4,Japan
+JA-21,Perfume5,Perfumes,9.0,849.8,7648.2,Japan
+JA-22,Bottle3,Water bottles,,,,Japan
+JA-23,Shoes3,Shoes,,,,Japan
+JA-24,Phone1,Smart Phone,1.0,924.97,924.97,Japan
+JA-25,Phone4,Smart Phone,3.0,1244.33,3732.99,Japan
+JA-26,Perfume5,Perfumes,1.0,998.21,998.21,Japan
+JA-27,Tshirt6,Tshirts,8.0,1579.28,12634.24,Japan
+JA-28,Phone4,Smart Phone,9.0,950.28,8552.52,Japan
+JA-29,Shoes6,Shoes,8.0,1424.34,11394.72,Japan
+JA-30,Jeans4,Jeans,1.0,828.49,828.49,Japan
+JA-31,,Jeans,5.0,1196.21,5981.05,Japan
+JA-32,Bottle4,Water bottles,7.0,1430.84,10015.88,Japan
+JA-33,Perfume6,Perfumes,2.0,1275.33,2550.66,Japan
+JA-34,Phone1,Smart Phone,2.0,1808.98,3617.96,Japan
+JA-35,Perfume4,Perfumes,7.0,1151.9,8063.3,Japan
+JA-36,Shoes2,Shoes,10.0,1347.66,13476.6,Japan
+JA-37,Shoes1,Shoes,2.0,1098.89,2197.78,Japan
+JA-38,Perfume1,Perfumes,5.0,1675.51,8377.55,Japan
+JA-39,Jeans1,Jeans,2.0,1428.56,2857.12,Japan
+JA-40,Shoes3,Shoes,3.0,1090.8,3272.4,Japan
+JA-41,Jeans2,Jeans,2.0,1022.95,2045.9,Japan
+JA-42,Phone4,Smart Phone,10.0,1334.8,13348.0,Japan
+JA-43,Perfume6,Perfumes,10.0,1190.57,11905.7,Japan
+JA-44,Shoes2,Shoes,8.0,1327.13,10617.04,Japan
+JA-45,Shoes5,Shoes,9.0,904.8,8143.2,Japan
+JA-46,Tshirt1,Tshirts,5.0,907.72,4538.6,Japan
+JA-47,Tshirt5,Tshirts,7.0,1350.66,9454.62,Japan
+JA-48,Bottle1,Water bottles,10.0,1567.69,15676.9,Japan
+JA-49,Phone5,Smart Phone,1.0,1336.67,1336.67,Japan
+JA-50,Shoes6,Shoes,3.0,864.59,2593.77,Japan
+JA-51,Phone5,Smart Phone,3.0,1237.26,3711.78,Japan
+JA-52,Phone4,Smart Phone,10.0,879.77,8797.7,Japan
+JA-53,Shoes1,Shoes,9.0,1598.15,14383.35,Japan
+JA-54,Bottle6,Water bottles,10.0,1821.8,18218.0,Japan
+JA-55,Perfume6,Perfumes,6.0,1175.67,7054.02,Japan
+JA-56,Bottle4,Water bottles,2.0,1174.93,2349.86,Japan
+JA-57,Shoes2,Shoes,9.0,926.92,8342.28,Japan
+JA-58,Perfume3,Perfumes,,,,Japan
+JA-59,Shoes4,Shoes,3.0,997.48,2992.44,Japan
+JA-60,Tshirt5,Tshirts,9.0,862.98,7766.82,Japan
+JA-61,Perfume2,Perfumes,3.0,1005.85,3017.55,Japan
+JA-62,Perfume2,Perfumes,1.0,1291.15,1291.15,Japan
+JA-63,Jeans4,Jeans,8.0,1088.2,8705.6,Japan
+JA-64,Phone2,Smart Phone,10.0,1949.36,19493.6,Japan
+JA-65,Shoes4,Shoes,7.0,1928.51,13499.57,Japan
+JA-66,Perfume2,Perfumes,1.0,1555.46,1555.46,Japan
+JA-67,Perfume1,Perfumes,9.0,1796.43,16167.87,Japan
+JA-68,Jeans3,Jeans,9.0,988.75,8898.75,Japan
+JA-69,Jeans4,Jeans,1.0,1295.79,1295.79,Japan
+JA-70,,Shoes,2.0,1249.9,2499.8,Japan
+JA-71,Tshirt6,Tshirts,3.0,977.57,2932.71,Japan
+JA-72,,Smart Phone,8.0,1334.46,10675.68,Japan
+JA-73,Tshirt1,Tshirts,3.0,1449.44,4348.32,Japan
+JA-74,Perfume4,Perfumes,5.0,1092.38,5461.9,Japan
+JA-75,Jeans4,Jeans,10.0,1344.23,13442.3,Japan
+JA-76,Phone5,Smart Phone,9.0,1479.56,13316.04,Japan
+JA-77,Shoes4,Shoes,,,,Japan
+JA-78,Jeans6,Jeans,9.0,1938.13,17443.17,Japan
+JA-79,Perfume5,Perfumes,9.0,1455.59,13100.31,Japan
+JA-80,,Smart Phone,6.0,1110.75,6664.5,Japan
+JA-81,Tshirt3,Tshirts,2.0,1705.0,3410.0,Japan
+JA-82,Shoes2,Shoes,,,,Japan
+JA-83,Jeans6,Jeans,8.0,1544.62,12356.96,Japan
+JA-84,Tshirt6,Tshirts,8.0,862.11,6896.88,Japan
+JA-85,Jeans1,Jeans,5.0,1411.1,7055.5,Japan
+JA-86,Perfume4,Perfumes,4.0,1148.0,4592.0,Japan
+JA-87,Tshirt6,Tshirts,2.0,1736.95,3473.9,Japan
+JA-88,Phone6,Smart Phone,7.0,1208.74,8461.18,Japan
+JA-89,Bottle4,Water bottles,9.0,1125.74,10131.66,Japan
+JA-90,Phone1,Smart Phone,3.0,1445.62,4336.86,Japan
+JA-91,Tshirt3,Tshirts,5.0,1331.38,6656.9,Japan
+JA-92,Jeans6,Jeans,8.0,868.28,6946.24,Japan
+JA-93,Shoes5,Shoes,5.0,1553.49,7767.45,Japan
+JA-94,Tshirt1,Tshirts,7.0,1236.59,8656.13,Japan
+JA-95,Bottle2,Water bottles,3.0,1793.56,5380.68,Japan
+JA-96,Phone1,Smart Phone,4.0,1713.05,6852.2,Japan
+JA-97,Phone5,Smart Phone,,,,Japan
+JA-98,Shoes3,Shoes,2.0,1478.28,2956.56,Japan
+JA-99,,Smart Phone,4.0,1921.9,7687.6,Japan
+JA-100,Jeans4,Jeans,9.0,954.8,8593.2,Japan
+JA-101,Bottle4,Water bottles,10.0,1147.38,11473.8,Japan
+JA-102,Phone2,Smart Phone,2.0,1338.41,2676.82,Japan
+JA-103,Phone1,Smart Phone,6.0,1586.05,9516.3,Japan
+JA-104,Perfume5,Perfumes,5.0,1796.64,8983.2,Japan
+JA-105,Bottle6,Water bottles,6.0,1403.49,8420.94,Japan
+JA-106,Jeans2,Jeans,8.0,849.84,6798.72,Japan
+JA-107,Shoes4,Shoes,9.0,968.59,8717.31,Japan
+JA-108,Tshirt3,Tshirts,8.0,1422.93,11383.44,Japan
+JA-109,Perfume1,Perfumes,6.0,1556.79,9340.74,Japan
+JA-110,Bottle5,Water bottles,9.0,1553.87,13984.83,Japan
+JA-111,Jeans4,Jeans,1.0,1773.72,1773.72,Japan
+JA-112,Shoes2,Shoes,4.0,1216.75,4867.0,Japan
+JA-113,Shoes1,Shoes,9.0,1134.62,10211.58,Japan
+JA-114,Perfume5,Perfumes,3.0,1498.8,4496.4,Japan
+JA-115,Jeans6,Jeans,10.0,1207.1,12071.0,Japan
+JA-116,Tshirt1,Tshirts,10.0,1123.38,11233.8,Japan
+JA-117,Perfume4,Perfumes,1.0,1391.2,1391.2,Japan
+JA-118,Shoes6,Shoes,8.0,1100.67,8805.36,Japan
+JA-119,Phone3,Smart Phone,1.0,1001.08,1001.08,Japan
+JA-120,Phone2,Smart Phone,3.0,1178.38,3535.14,Japan
+JA-121,Bottle3,Water bottles,3.0,1692.57,5077.71,Japan
+JA-122,Tshirt3,Tshirts,2.0,1126.61,2253.22,Japan
+JA-123,Tshirt1,Tshirts,7.0,1811.33,12679.31,Japan
+JA-124,Jeans3,Jeans,6.0,1037.51,6225.06,Japan
+JA-125,Perfume4,Perfumes,5.0,1390.43,6952.15,Japan
+JA-126,Phone5,Smart Phone,4.0,1066.56,4266.24,Japan
+JA-127,,Tshirts,8.0,1147.57,9180.56,Japan
+JA-128,Tshirt4,Tshirts,5.0,1654.52,8272.6,Japan
+JA-129,Shoes1,Shoes,10.0,1464.38,14643.8,Japan
+JA-130,Shoes1,Shoes,8.0,1696.85,13574.8,Japan
+JA-131,Perfume6,Perfumes,3.0,1938.62,5815.86,Japan
+JA-132,Shoes5,Shoes,3.0,1048.1,3144.3,Japan
+JA-133,Perfume1,Perfumes,,,,Japan
+JA-134,Phone5,Smart Phone,10.0,1844.57,18445.7,Japan
+JA-135,Perfume3,Perfumes,10.0,1668.07,16680.7,Japan
+JA-136,Shoes5,Shoes,9.0,1381.79,12436.11,Japan
+JA-137,Phone1,Smart Phone,2.0,1944.15,3888.3,Japan
+JA-138,Bottle6,Water bottles,10.0,1364.28,13642.8,Japan
+JA-139,Perfume5,Perfumes,1.0,1489.3,1489.3,Japan
+JA-140,Bottle6,Water bottles,7.0,989.25,6924.75,Japan
+JA-141,Tshirt5,Tshirts,2.0,1038.61,2077.22,Japan
+JA-142,Phone2,Smart Phone,4.0,1290.59,5162.36,Japan
+JA-143,Phone6,Smart Phone,3.0,1414.89,4244.67,Japan
+JA-144,Bottle4,Water bottles,6.0,1917.51,11505.06,Japan
+JA-145,Perfume3,Perfumes,5.0,1519.75,7598.75,Japan
+JA-146,Jeans3,Jeans,4.0,1900.07,7600.28,Japan
+JA-147,Shoes6,Shoes,8.0,1183.49,9467.92,Japan
+JA-148,Bottle3,Water bottles,10.0,1596.13,15961.3,Japan
+JA-149,Phone3,Smart Phone,3.0,1152.98,3458.94,Japan
+JA-150,Bottle1,Water bottles,8.0,1572.43,12579.44,Japan
+JA-151,Jeans2,Jeans,5.0,1890.36,9451.8,Japan
+JA-152,Jeans1,Jeans,10.0,1094.26,10942.6,Japan
+JA-153,Perfume2,Perfumes,1.0,934.66,934.66,Japan
+JA-154,Phone1,Smart Phone,3.0,825.62,2476.86,Japan
+JA-155,Jeans4,Jeans,8.0,1367.56,10940.48,Japan
+JA-156,Shoes3,Shoes,1.0,1861.57,1861.57,Japan
+JA-157,Perfume2,Perfumes,1.0,1867.64,1867.64,Japan
+JA-158,Jeans1,Jeans,7.0,1723.89,12067.23,Japan
+JA-159,Bottle3,Water bottles,1.0,1162.08,1162.08,Japan
+JA-160,Shoes3,Shoes,9.0,1421.34,12792.06,Japan
+JA-161,Jeans5,Jeans,4.0,1747.82,6991.28,Japan
+JA-162,Bottle4,Water bottles,3.0,835.84,2507.52,Japan
+JA-163,Shoes5,Shoes,4.0,1021.07,4084.28,Japan
+JA-164,Phone4,Smart Phone,2.0,1279.64,2559.28,Japan
+JA-165,Jeans4,Jeans,4.0,827.51,3310.04,Japan
+JA-166,Phone3,Smart Phone,5.0,1488.07,7440.35,Japan
+JA-167,Shoes6,Shoes,4.0,890.97,3563.88,Japan
+JA-168,Shoes2,Shoes,9.0,1878.97,16910.73,Japan
+JA-169,Shoes6,Shoes,5.0,1241.44,6207.2,Japan
+JA-170,Jeans4,Jeans,10.0,1248.43,12484.3,Japan
+JA-171,Phone5,Smart Phone,4.0,1693.93,6775.72,Japan
+JA-172,Perfume1,Perfumes,9.0,1627.28,14645.52,Japan
+JA-173,Perfume1,Perfumes,9.0,1855.77,16701.93,Japan
+JA-174,Perfume2,Perfumes,9.0,1326.7,11940.3,Japan
+JA-175,Bottle5,Water bottles,9.0,1330.89,11978.01,Japan
+JA-176,Jeans5,Jeans,10.0,885.93,8859.3,Japan
+JA-177,,Shoes,,,,Japan
+JA-178,Jeans5,Jeans,7.0,1215.03,8505.21,Japan
+JA-179,Tshirt1,Tshirts,8.0,856.08,6848.64,Japan
+JA-180,Jeans6,Jeans,7.0,1249.38,8745.66,Japan
+JA-181,Phone4,Smart Phone,9.0,972.28,8750.52,Japan
+JA-182,Tshirt2,Tshirts,7.0,1426.54,9985.78,Japan
+JA-183,Jeans1,Jeans,5.0,1350.98,6754.9,Japan
+JA-184,Phone5,Smart Phone,4.0,1103.7,4414.8,Japan
+JA-185,Shoes2,Shoes,2.0,856.64,1713.28,Japan
+JA-186,,Perfumes,2.0,935.46,1870.92,Japan
+JA-187,,Perfumes,1.0,1100.51,1100.51,Japan
+JA-188,Phone2,Smart Phone,1.0,980.48,980.48,Japan
+JA-189,Jeans6,Jeans,10.0,1505.8,15058.0,Japan
+JA-190,Shoes2,Shoes,3.0,1950.8,5852.4,Japan
+JA-191,Phone3,Smart Phone,9.0,1908.13,17173.17,Japan
+JA-192,Jeans6,Jeans,9.0,1388.41,12495.69,Japan
+JA-193,Bottle6,Water bottles,9.0,1185.43,10668.87,Japan
+JA-194,Jeans3,Jeans,9.0,1363.05,12267.45,Japan
+JA-195,Shoes6,Shoes,8.0,1869.38,14955.04,Japan
+JA-196,Phone5,Smart Phone,7.0,1098.36,7688.52,Japan
+JA-197,Bottle1,Water bottles,6.0,925.77,5554.62,Japan
+JA-198,Jeans1,Jeans,10.0,1511.56,15115.6,Japan
+JA-199,Jeans5,Jeans,9.0,1068.7,9618.3,Japan
+JA-200,Shoes3,Shoes,1.0,1062.74,1062.74,Japan
